@@ -1,0 +1,6 @@
+Species: 0
+Name: Dog9
+Age: 14
+Weight: 17
+Health: 2
+Is available to adopt: Yes
